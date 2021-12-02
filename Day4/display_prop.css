@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    display: inline-block;
+    margin: 30px;
+} 
+/*.one,.two{
+    display: inline-block;
+}
+li{
+    display: inline-block;
+    margin: 30px;
+    border: 2px solid black;
+}*/
+
+.bee{
+    
+    display: block;
+    margin: 30px;
+}

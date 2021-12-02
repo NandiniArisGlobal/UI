@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    height: 400px;
+    width: 600px;
+    margin: 20px;
+    border: 2px solid black;
+    position: static;
+    
+}
+.mainbox{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    margin: 20px;
+    background-image: url(https://th.bing.com/th/id/OIP.AiWFWy2E7XXt7nLTNtuUpwHaEK?pid=ImgDet&rs=1);
+    background-repeat: no-repeat;
+    object-fit: contain;
+}
+.circle{
+    height:150px ;
+    width: 250px;
+    border-radius: 100%;
+    border: 2px solid red;
+    margin: 20px;
+    position: absolute;
+    left: 340px;
+    bottom: 420px;
+    
+}
+h3{
+    position: relative;
+    left: 380px;
+    top:-150px;
+    font-size: 50px;
+}
+div p{
+    text-align: center;
+    font-size: 40px;
+}

@@ -1,0 +1,17 @@
+.mainbox {
+    height: 800px;
+    width: 800px;
+    border: 3px solid black;
+    padding: 3px;
+  }
+  .box {
+    height: 70px;
+    width: 790px;
+    border: 2px solid white;
+    background-color: pink;
+  }
+  h1 {
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  

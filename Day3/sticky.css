@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.sticky{
+   
+    position: sticky;
+    top: 0;
+    padding: 5px;
+    background-color: palegreen;
+    border: 2px solid black;
+}
+.box{
+    width: 150px;
+    height: 800px;
+    border: 2px solid black;
+    padding: 2px;
+    margin: 2px;
+}

@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    height: 50px;
+    width: 800px;
+    border-top: 2px solid grey;
+    padding-left: 50px;
+    padding-right: 30px;
+    margin: 50px;
+    background-color: #DCDCDC;
+    display: flex;
+    justify-content: space-between;
+}
+.box2{
+    height: 50px;
+    width: 500px;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-evenly;
+}
+.one1{
+    display: flex;
+    align-items: center;
+    color: black;
+    font-size: 20px;
+}
+.one{
+    display: flex;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+a:hover{
+    color: blue;
+}
