@@ -1,6 +1,19 @@
 *{
-    margin:auto;
+    margin:0px;
 }
-/* .row{
-    margin: auto;
-} */
+
+.footer-copyright{
+    width: auto;
+    height: auto;
+    border: 1px solid lightgray;
+    background-color: lightgray;
+}
+.main1{
+    width: auto;
+    height: auto;
+    padding: 20px;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container-fluid{
+    margin-left: 200px;
+    display: grid;
+    grid-template-columns: 300px 300px;
+    grid-template-rows: 200px 200px;
+    gap: 15px 20px;
+    /* place-items: center; */           /*center of grid*/        
+    align-items: center;                /*column*/
+    /* justify-items: center; */            /* row */
+}

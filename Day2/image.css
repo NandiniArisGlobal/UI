@@ -10,6 +10,7 @@
     background-position: center;
     background-repeat: no-repeat;
     object-fit: cover;
+    /* background-size: cover; */
 }
 .box{
     width: auto;
