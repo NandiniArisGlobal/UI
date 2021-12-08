@@ -2,20 +2,21 @@
     margin: 0px;
     padding: 0px;
 }
-ul{
+/* ul{
     display: inline-block;
     margin: 30px;
-} 
-/*.one,.two{
+}  */
+/* .one,.two{
     display: inline-block;
-}
+} */
 li{
     display: inline-block;
     margin: 30px;
+    padding: 5px;
     border: 2px solid black;
-}*/
+}
 
-.bee{
+a{
     
     display: block;
     margin: 30px;

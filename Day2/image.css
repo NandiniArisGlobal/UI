@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    background-color: azure;
+    background-image: url("https://th.bing.com/th/id/OIP.Y9bwQLnbvFu-t80jjo4IaAHaEo?w=298&h=186&c=7&r=0&o=5&pid=1.7");
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+.box{
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border: 2px dotted red;
+}

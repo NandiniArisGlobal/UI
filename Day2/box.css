@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+  }
+  .mainBox {
+    border: 5px solid red;
+    text-align: center;
+    background-color: yellow;
+  }
+  .Box {
+    height: 100px;
+    width: 100px;
+    border: 5px solid aqua;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    background-color: white;
+  }
+  

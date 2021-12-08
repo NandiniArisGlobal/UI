@@ -1,0 +1,33 @@
+.box{
+    width: 500px;
+    height: 500px;
+    background-color: lightblue;
+    display: flex;
+    flex-wrap: wrap;
+}
+.boxtwo{
+    width: 50%;
+    height: 50%;
+    background-color: darkorchid;
+}
+.box3{
+    width: 50%;
+    height: 50%;
+    background-color: red;
+    
+}
+.box4{
+    width: 50%;
+    height: 50%;
+    background-color: yellow;
+}
+.box5{
+    width: 50%;
+    height: 50%;
+    background-color: pink;
+}
+.box6{
+    width: 25%;
+    height: 25%;
+    background-color: deeppink;
+}

@@ -9,6 +9,7 @@
     padding-left: 50px;
     padding-right: 40px;
     background-color: #f26b8a;
+    opacity: 0.6;
     margin: 100px;
     display: flex;
     align-items: center;
@@ -54,11 +55,13 @@ input[type="text"]{
 .box2{
     height: 25px;
     width: 320px;
-    padding-top: 5px;
+    /* padding-top: 5px; */
     border-radius: 6px ;
     border: 1px solid grey;
     background-color: blueviolet;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-size: 13px;
     color: white;
 }
